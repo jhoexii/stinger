@@ -2,10 +2,10 @@
 ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
-dbhost='139.162.4.104';
-dbuser='corpovpn_stinger';
-dbpass='corpovpn_stinger';
-dbname='corpovpn_stinger';
+dbhost='139.162.20.240';
+dbuser='vpnnijho_stinger';
+dbpass='vpnnijho_stinger';
+dbname='vpnnijho_stinger';
 dbport='3306';
 RED='\033[01;31m';
 RESET='\033[0m';
